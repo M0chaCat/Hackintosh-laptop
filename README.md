@@ -1,5 +1,5 @@
 # Hackintosh-laptop
-my hackintosh EFI i use for school
+my hackintosh EFI i use for school, it runs MacOS 11.2 Big Sur
 
 
 Its for a dell inspiron 15 7547
